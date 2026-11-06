@@ -1,0 +1,4 @@
+myenv/
+logs/
+regressionlogs/
+.ipynb_checkpoints/
